@@ -5,15 +5,15 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @mikeks81/number-formatter`
+  `npm install @mikeks81/mikeks81number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@mikeks81/number-formatter');
+    var numFormatter = require('@mikeks81/mikeks81number-formatter');
 
     var formattedNum = numFormatter(35666);
-  
-  
+
+
   Output should be `35,666`
 
 
