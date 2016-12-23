@@ -1,5 +1,6 @@
 Number Formatter
 =========
+ [![Build Status](https://travis-ci.org/{@mikeks81}/{mikeks81number-formatter}.png?branch=master)](https://travis-ci.org/{@mikeks81}/{mikeks81number-formatter})
 
 A small library that adds commas to numbers
 
